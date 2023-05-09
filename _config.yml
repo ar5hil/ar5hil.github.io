@@ -19,15 +19,8 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 
 navbar-links:
   General stuff:
-  #  - Admin: "/general/admin/"
   - Biblio: "/general/bibliography/"
-  #  - Career: "/general/career/"
-  #  - Health: "/general/health/"
-  #  - Humanities: "/general/humanities/"
-  #  - Methods: "/general/methods/"
   - Programming: "/general/programming/"
-  #  - Related: "/general/related/"
-  #  - Teaching: "/general/teaching/"
   - Writing: "/general/writing/"
   Software tutorials:
     - Git: "/tutorials/git/"
