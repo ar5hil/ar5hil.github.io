@@ -30,7 +30,7 @@ navbar-links:
     - VSCode: "/tutorials/vscode"
     - Zotero: "/tutorials/zotero/"
   BSMU:
-    - Exam Materials: "/enpc/exammaterials/"
+    - Exam Materials: "/bsmu/exammaterials/"
   NEET-PG/FMG:
     - Resources: "/mci/resources/"
     - News: "/mci/news/"
