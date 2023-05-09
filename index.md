@@ -8,4 +8,4 @@ Are you a medical student looking for resources to enhance your MBBS studies? Lo
 
 This is meant to be a collaborative endeavor, so if you have things to add, you're more than welcome to contribute by <a href="mailto:arshilkhan38@gmail.com?subject=contributing to MBBS Resources">sending me an email</a>.
 
-> Warning: I have not tested all of these tools myself, so be sure to check that they are safe and up-to-date before using them.
+> Warning: Excessive studying of medicine may lead to a sudden onset of medical jargon and a tendency to diagnose everyone around you with rare diseases. Use caution and take breaks to socialize with non-medical students to avoid becoming a medical bore. Side effects may include a sense of superiority, insufferable confidence, and as my Friends use to say make acquire God Syndrome.
