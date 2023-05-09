@@ -36,12 +36,15 @@ navbar-links:
     - Python: "/tutorials/python/"
     - VSCode: "/tutorials/vscode"
     - Zotero: "/tutorials/zotero/"
-  École des Ponts:
-    - Admin: "/enpc/admin/"
-    - Digital: "/enpc/digital/"
-    - General: "/enpc/general/"
-    - Grad schools: "/enpc/gradschools/"
-    - Labs: "/enpc/labs/"
+  BSMU:
+    - University: "/enpc/university/"
+    - First Day At University: "/enpc/firstdayuni/"
+    - How to Study: "/enpc/howtostudy/"
+    - Hospital Address: "/enpc/hospitaladdress/"
+    - Exam Materials: "/enpc/exammaterials/"
+    NEET-PG/FMG:
+    - Resources: "/mci/resources/"
+    - News: "/mci/News/"
 
 # --- Logo --- #
 
