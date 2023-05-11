@@ -24,7 +24,7 @@ navbar-links:
   - Writing: "/general/writing/"
   BSMU:
   - Exam Materials: "/bsmu/exammaterials/"
-  - Subjects: "/bsmu/subjects/"
+  - Subjects: "/bsmu/subject/"
     - Anesthesia: "/bsmu/subjects/anesthesia/"
     - Internal Medicine: "/bsmu/subjects/internalmedicine/"
     - Obstetrics: "/bsmu/subjects/obstetrics"
