@@ -26,7 +26,7 @@ navbar-links:
   BSMU:
     - Exam Materials: "/bsmu/exammaterials/"
     - Subjects: "/bsmu/subjects/"
-      - Opthalmology: "/bsmu/subjects/opthalmology"
+      - Opthalmology: "/bsmu/subjects/opthalmology/"
   FMG:
     - Resources: "/mci/resources/"
     - News: "/mci/news/"
