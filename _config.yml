@@ -25,6 +25,8 @@ navbar-links:
   - Writing: "/general/writing/"
   BSMU:
     - Exam Materials: "/bsmu/exammaterials/"
+    - Subjects: "/bsmu/subjects/"
+      - Opthalmology: "/bsmu/subjects/opthalmology"
   FMG:
     - Resources: "/mci/resources/"
     - News: "/mci/news/"
