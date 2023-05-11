@@ -23,18 +23,18 @@ navbar-links:
   - Programming: "/general/programming/"
   - Writing: "/general/writing/"
   BSMU:
-    - Exam Materials: "/bsmu/exammaterials/"
-    - Subjects: "/bsmu/subjects/"
-      - Anesthesia: "/bsmu/subjects/anesthesia/"
-      - Internal Medicine: "/bsmu/subjects/internalmedicine/"
-      - Obstetrics: "/bsmu/subjects/obstetrics"
-      - Ophthalmology: "/bsmu/subjects/opthalmology/"
-      - Surgery: "/bsmu/subjects/surgery/"      
+  - Exam Materials: "/bsmu/exammaterials/"
+  - Subjects: "/bsmu/subjects/"
+    - Anesthesia: "/bsmu/subjects/anesthesia/"
+    - Internal Medicine: "/bsmu/subjects/internalmedicine/"
+    - Obstetrics: "/bsmu/subjects/obstetrics"
+    - Ophthalmology: "/bsmu/subjects/opthalmology/"
+    - Surgery: "/bsmu/subjects/surgery/"      
   FMG:
-    - Resources: "/mci/resources/"
-    - News: "/mci/news/"
+  - Resources: "/mci/resources/"
+  - News: "/mci/news/"
   Anime:
-    - Boruto: "/anime/boruto/"
+  - Boruto: "/anime/boruto/"
 
 # --- Logo --- #
 
