@@ -28,7 +28,7 @@ navbar-links:
       - Anesthesia: "/bsmu/subjects/anesthesia/"
       - Internal Medicine: "/bsmu/subjects/internalmedicine/"
       - Obstetrics: "/bsmu/subjects/obstetrics"
-      - Ophthalmology: "/bsmu/subjects/opthalmology/ophthalmology/"
+      - Ophthalmology: "/bsmu/subjects/opthalmology/"
       - Surgery: "/bsmu/subjects/surgery/"      
   FMG:
     - Resources: "/mci/resources/"
