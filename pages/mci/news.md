@@ -5,7 +5,7 @@ title: News
 
 I haven't had time to add yet.
 
-<a href="/assets/306.jpg" download="mydownload"></a>
+<a href="/assets/306.jpg" download="mydownload">Download this B1t3h</a>
 
 download link above
 
