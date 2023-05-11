@@ -25,11 +25,7 @@ navbar-links:
   BSMU:
   - Exam Materials: "/bsmu/exammaterials/"
   - Subjects: "/bsmu/subject/"
-    - Anesthesia: "/bsmu/subjects/anesthesia/"
-    - Internal Medicine: "/bsmu/subjects/internalmedicine/"
-    - Obstetrics: "/bsmu/subjects/obstetrics"
-    - Ophthalmology: "/bsmu/subjects/opthalmology/"
-    - Surgery: "/bsmu/subjects/surgery/"      
+  - Ophthalmology: "/bsmu/subjects/opthalmology/"
   FMG:
   - Resources: "/mci/resources/"
   - News: "/mci/news/"
