@@ -18,7 +18,6 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Aboutme: "aboutme"
   Tools:
   - Biblio: "/general/bibliography/"
   - Programming: "/general/programming/"
@@ -26,7 +25,11 @@ navbar-links:
   BSMU:
     - Exam Materials: "/bsmu/exammaterials/"
     - Subjects: "/bsmu/subjects/"
-      - Opthalmology: "/bsmu/subjects/opthalmology/"
+      - Anesthesia: "/bsmu/subjects/anesthesia/"
+      - Internal Medicine: "/bsmu/subjects/internalmedicine/"
+      - Obstetrics: "/bsmu/subjects/obstetrics"
+      - Ophthalmology: "/bsmu/subjects/opthalmology/ophthalmology/"
+      - Surgery: "/bsmu/subjects/surgery/"      
   FMG:
     - Resources: "/mci/resources/"
     - News: "/mci/news/"
