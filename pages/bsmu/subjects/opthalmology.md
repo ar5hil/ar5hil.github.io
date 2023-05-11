@@ -1,5 +1,5 @@
 ---
-permalink: /bsmu/opthalmology/
+permalink: /bsmu/subjects/opthalmology/
 title: Opthalmology
 ---
 

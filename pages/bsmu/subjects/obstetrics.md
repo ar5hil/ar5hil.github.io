@@ -1,5 +1,5 @@
 ---
-permalink: /bsmu/obstetrics/
+permalink: /bsmu/subjects/obstetrics/
 title: Obstetrics
 ---
 

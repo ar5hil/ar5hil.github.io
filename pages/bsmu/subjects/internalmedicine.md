@@ -1,5 +1,5 @@
 ---
-permalink: /bsmu/internalmedicine/
+permalink: /bsmu/subjects/internalmedicine/
 title: Internal Medicine
 ---
 

@@ -1,5 +1,5 @@
 ---
-permalink: /bsmu/surgery/
+permalink: /bsmu/subjects/surgery/
 title: Surgery
 ---
 

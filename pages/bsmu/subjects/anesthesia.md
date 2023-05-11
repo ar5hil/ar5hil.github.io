@@ -1,5 +1,5 @@
 ---
-permalink: /bsmu/anesthesia/
+permalink: /bsmu/subjects/anesthesia/
 title: Anesthesia.md
 ---
 
