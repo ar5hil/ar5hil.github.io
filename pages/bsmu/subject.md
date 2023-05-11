@@ -1,5 +1,5 @@
 ---
-permalink: /bsmu/subjects/
+permalink: /bsmu/subject/
 title: Subjects
 ---
 
