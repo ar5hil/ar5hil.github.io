@@ -17,7 +17,7 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
+#navbar-links:
   Tools:
   - Biblio: "/general/bibliography/"
   - Programming: "/general/programming/"
