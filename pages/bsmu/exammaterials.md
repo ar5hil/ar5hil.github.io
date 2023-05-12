@@ -3,8 +3,7 @@ permalink: /bsmu/exammaterials/
 title: Exam Materials
 ---
 
-**Anesthesiology**		— <a href="/assets/exampdf/anesthi.pdf" download="Anesthesiology">Download</a> <p id="demo"></p>
-
+**Anesthesiology**		— <a href="/assets/exampdf/anesthi.pdf" download="Anesthesiology">Download</a> <p id="demo"></p> <!-- Display the countdown timer in an element -->
 <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Jun 2, 2023 08:00:00").getTime();
