@@ -4,7 +4,7 @@ title: Exam Materials
 subtitle: Exam Question & Answers PDFs.
 ---
 
-**Anesthesiology**		— <a href="/assets/exampdf/anesthi.pdf" download="Anesthesiology">Download</a> <p id="demo"></p>
+**Anesthesiology**		— <a href="/assets/exampdf/anesthi.pdf" download="Anesthesiology">Download</a>
 
 **Internal Medcine**	— <a href="/assets/exampdf/id.pdf" download="Internal Medcine">Download</a>
 
