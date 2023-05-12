@@ -17,7 +17,21 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # --- List of links in the navigation bar --- #
 
-
+navbar-links:
+    Tools:
+  - Biblio: "/general/bibliography/"
+  - Programming: "/general/programming/"
+  - Writing: "/general/writing/"
+  BSMU:
+  - Exam Materials: "/bsmu/exammaterials/"
+  - Subjects: "/bsmu/subject/"
+  - Ophthalmology: "/bsmu/subjects/opthalmology/"
+  FMG:
+  - Resources: "/mci/resources/"
+  - News: "/mci/news/"
+  Anime:
+  - Boruto: "/anime/boruto/"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
