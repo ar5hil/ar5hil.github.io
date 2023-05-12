@@ -10,7 +10,7 @@ I haven't had time to add yet.
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("May 2, 2023 08:00:00").getTime();
+var countDownDate = new Date("Jun 2, 2023 08:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
