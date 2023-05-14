@@ -10,7 +10,7 @@ subtitle: Time Left Before the Flight
 <style>
 #demo {
   text-align: center;
-  font-size: 30px;
+  font-size: 60px;
   margin-top: 0px;
 }
 </style>
