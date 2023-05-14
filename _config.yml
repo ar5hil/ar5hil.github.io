@@ -23,8 +23,6 @@ navbar-links:
   - Flight 29 june: "/flight2/"
   BSMU:
   - Exam Materials: "/bsmu/exammaterials/"
-  - Subjects: "/bsmu/subject/"
-  - Ophthalmology: "/bsmu/subjects/opthalmology/"
   Anime:
   - Boruto: "/anime/boruto/"
 
