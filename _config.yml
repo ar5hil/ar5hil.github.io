@@ -18,13 +18,11 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  flight: "/flight/"
   BSMU:
   - Exam Materials: "/bsmu/exammaterials/"
   - Subjects: "/bsmu/subject/"
   - Ophthalmology: "/bsmu/subjects/opthalmology/"
-  FMG:
-  - Resources: "/mci/resources/"
-  - News: "/mci/news/"
   Anime:
   - Boruto: "/anime/boruto/"
 
