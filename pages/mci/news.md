@@ -5,10 +5,10 @@ title: News
 
 I haven't had time to add yet.
 
-<a href="/assets/306.jpg" download="mydownload">Download this B1t3h</a>
+#<a href="/assets/306.jpg" download="mydownload">Download this B1t3h</a>
 
-download link above
+#<a> download link above </a>
 
-image view below
+#<a> image view below </a>
 
-<a href="/assets/306.jpg" download="myimage"><img src="/assets/306.jpg" alt="Boruto Poster" width="100%" height="100%"></a>
+#<a href="/assets/306.jpg" download="myimage"><img src="/assets/306.jpg" alt="Boruto Poster" width="100%" height="100%"></a>
