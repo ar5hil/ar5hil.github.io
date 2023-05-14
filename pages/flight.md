@@ -12,7 +12,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <head>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="countdown%201.fld/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Arshil Khan</o:Author>
@@ -735,8 +734,6 @@ div.WordSection1
 <meta name=viewport content="width=device-width, initial-scale=1">
 </head>
 
-<body lang=en-BY style='tab-interval:36.0pt;word-wrap:break-word'>
-
 <div class=WordSection1>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
@@ -778,7 +775,6 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
-</body>
 
 </html>
 
