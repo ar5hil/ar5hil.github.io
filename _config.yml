@@ -18,7 +18,9 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  flight: "/flight/"
+  Countdown:
+  - Flight 26 june: "/flight1/"
+  - Flight 29 june: "/flight2/"
   BSMU:
   - Exam Materials: "/bsmu/exammaterials/"
   - Subjects: "/bsmu/subject/"

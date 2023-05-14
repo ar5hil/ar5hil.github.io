@@ -1,5 +1,5 @@
 ---
-permalink: /flight/
+permalink: /flight1/
 title: ✈️ 26 June 1:15 PM
 subtitle: Time Left Before the Flight
 ---
