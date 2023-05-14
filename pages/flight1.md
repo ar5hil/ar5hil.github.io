@@ -1,6 +1,6 @@
 ---
 permalink: /flight1/
-title: ✈️ 26 June 1:15 PM
+title: ✈️ 26 June
 subtitle: Time Left Before the Flight
 ---
 
