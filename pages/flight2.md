@@ -1,14 +1,14 @@
 ---
 permalink: /flight2/
-title: Time Left Before the Flight
-subtitle: ✈️ 29 June 13:15:00
+title: ✈️ 29 June 1:15 PM
+subtitle: Time Left Before the Flight
 ---
 
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-p {
+#demo {
   text-align: center;
   font-size: 60px;
   margin-top: 0px;
@@ -17,7 +17,7 @@ p {
 </head>
 <body>
 
-<p id="demo"></p>
+<h3 id="demo"></h3>
 
 <script>
 // Set the date we're counting down to
