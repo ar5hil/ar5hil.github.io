@@ -4,7 +4,21 @@ title: Time Left Before the Flight
 subtitle: ✈️ 29 June 13:15:00
 ---
 
+<!DOCTYPE HTML>
 <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+</style>
+</head>
+<body>
+
+<p id="demo"></p>
 
 <script>
 // Set the date we're counting down to
@@ -37,5 +51,5 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
+</body>
 </html>
-
