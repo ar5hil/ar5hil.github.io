@@ -1,6 +1,6 @@
 ---
 permalink: /flight2/
-title: ✈️ 29 June 1:15 PM
+title: ✈️ 29 June
 subtitle: Time Left Before the Flight
 ---
 
@@ -10,7 +10,7 @@ subtitle: Time Left Before the Flight
 <style>
 #demo {
   text-align: center;
-  font-size: 60px;
+  font-size: 30px;
   margin-top: 0px;
 }
 </style>
