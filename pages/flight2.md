@@ -4,7 +4,6 @@ title: Time Left Before the Flight
 subtitle: ✈️ 29 June 13:15:00
 ---
 
-<!DOCTYPE HTML>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
