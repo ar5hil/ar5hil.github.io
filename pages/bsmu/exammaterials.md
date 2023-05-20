@@ -4,7 +4,11 @@ title: Exam Materials
 subtitle: Exam Question & Answers PDFs.
 ---
 
-I haven't had time to add yet.
+02 june - Anesthesiology
+08 june - Surgical Diseases
+14 june - Obstetrics
+19 june - Neurology
+23 june - Internal Medcine
 
 <script>**Anesthesiology**		— <a href="/assets/exampdf/anesthi.pdf" download="Anesthesiology">Download</a>
 
