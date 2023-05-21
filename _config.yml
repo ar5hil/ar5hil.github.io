@@ -21,6 +21,7 @@ navbar-links:
   Countdown:
   - Flight 26 june: "/flight1/"
   - Flight 29 june: "/flight2/"
+  - Birthday: "/assets/birthday.html"
   BSMU:
   - Exam Materials: "/bsmu/exammaterials/"
   Anime:
