@@ -1,18 +1,10 @@
 ---
 permalink: /bsmu/exammaterials/
 title: Exam Materials
-subtitle: Exam Question & Answers PDFs.<br>02 june - Anesthesiology<br>08 june - Surgical Diseases<br>14 june - Obstetrics<br>19 june - Neurology<br>23 june - Internal Medcine
+subtitle: Exam Question & Answers PDFs.<br><br>02 june - Anesthesiology<br><br>08 june - Surgical Diseases<br><br>14 june - Obstetrics<br><br>19 june - Neurology<br><br>23 june - Internal Medcine
 ---
 
-02 june - Anesthesiology
-
-08 june - Surgical Diseases
-
-14 june - Obstetrics
-
-19 june - Neurology
-
-23 june - Internal Medcine
+Will Add more soon.
 
 <script>**Anesthesiology**		— <a href="/assets/exampdf/anesthi.pdf" download="Anesthesiology">Download</a>
 
