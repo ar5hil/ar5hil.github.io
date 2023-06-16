@@ -1,7 +1,7 @@
 ---
 permalink: /examtimer/
 title: Next Exam
-subtitle: Anesthesio
+subtitle: Neurology
 ---
 
 <html>
