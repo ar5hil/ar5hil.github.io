@@ -1,6 +1,6 @@
 ---
 permalink: /flight1/
-title: ✈️ 26 June
+title: ✈️ 28 August
 subtitle: Time Left Before the Flight
 ---
 
@@ -21,7 +21,7 @@ subtitle: Time Left Before the Flight
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jun 26, 2023 13:15:00").getTime();
+var countDownDate = new Date("Jul 28, 2023 00:15:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {

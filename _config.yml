@@ -20,8 +20,7 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 navbar-links:
   Countdown:
   - Exam:  "/examtimer/"
-  - Flight 26 june: "/flight1/"
-  - Flight 29 june: "/flight2/"
+  - Flight 28 July: "/flight1/"
   - Birthday: "/assets/birthday.html"
   BSMU:
   - Exam Materials: "/bsmu/exammaterials/"
