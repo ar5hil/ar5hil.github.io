@@ -21,7 +21,7 @@ subtitle: Time Left Before the Flight
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jul 28, 2023 00:15:00").getTime();
+var countDownDate = new Date("Aug 28, 2023 00:15:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
