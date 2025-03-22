@@ -1,1 +1,0 @@
-node compileScript.js
