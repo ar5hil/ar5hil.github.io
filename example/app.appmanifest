@@ -1,0 +1,15 @@
+﻿{
+	"tabs": [
+		{
+			"selected": true,
+			"name": "Welcome",
+			"id": "welcome",
+			"page": "pages/welcome"
+		},
+		{
+			"name": "Overview",
+			"id": "overview",
+			"page": "pages/overview"
+		}
+	]
+}
